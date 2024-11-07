@@ -1,0 +1,5 @@
+streamlit
+
+#install local package
+
+-e .
